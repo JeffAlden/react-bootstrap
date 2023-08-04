@@ -1,0 +1,30 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+}
+
+.calculator {
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 300px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+}
+
+.inputs {
+  margin-bottom: 15px;
+}
+
+.results {
+  border-top: 1px solid #ccc;
+  padding-top: 15px;
+}
+
+
